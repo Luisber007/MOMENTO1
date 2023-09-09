@@ -56,3 +56,4 @@ while True:
     else:
         print("Opción no válida. Por favor, elija una opción válida del menú.")
 
+print(Motos)
